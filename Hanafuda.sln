@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanafuda.OpenApi", "Hanafuda.OpenApi\Hanafuda.OpenApi.csproj", "{07695397-8FAD-492A-B4E5-E3494418C484}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9F77B1B5-F9A3-4C7F-B853-5EC5F95B546D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanafuda.OpenApi.Test", "Hanafuda.OpenApi.Test\Hanafuda.OpenApi.Test.csproj", "{70B5E711-32D7-47B5-A36D-F338CF889572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07695397-8FAD-492A-B4E5-E3494418C484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07695397-8FAD-492A-B4E5-E3494418C484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07695397-8FAD-492A-B4E5-E3494418C484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07695397-8FAD-492A-B4E5-E3494418C484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B5E711-32D7-47B5-A36D-F338CF889572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B5E711-32D7-47B5-A36D-F338CF889572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B5E711-32D7-47B5-A36D-F338CF889572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B5E711-32D7-47B5-A36D-F338CF889572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{70B5E711-32D7-47B5-A36D-F338CF889572} = {9F77B1B5-F9A3-4C7F-B853-5EC5F95B546D}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Hanafuda.OpenApi\Hanafuda.OpenApi.csproj
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
