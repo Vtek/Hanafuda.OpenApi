@@ -2,9 +2,14 @@
 .DS_Store
 Thumbs.db
 
-#bin
+#IDE files
+Hanafuda.userprefs
+
+#bin directories
 Hanafuda.OpenApi/bin/
 Hanafuda.OpenApi/obj/
 Hanafuda.OpenApi.Test/bin/
 Hanafuda.OpenApi.Test/bin/
+
+#packages directories
 packages/
