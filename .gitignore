@@ -9,7 +9,7 @@ Hanafuda.userprefs
 Hanafuda.OpenApi/bin/
 Hanafuda.OpenApi/obj/
 Hanafuda.OpenApi.Test/bin/
-Hanafuda.OpenApi.Test/bin/
+Hanafuda.OpenApi.Test/obj/
 
 #packages directories
 packages/
